@@ -1,7 +1,7 @@
 <?php
 $driver = 'mysql'; // База данных
 $host = 'localhost'; // Хост
-$db_name = 'magazin'; // Имя бд
+$db_name = 'crud'; // Имя бд
 $db_user = 'root'; // Имя пользователя
 $db_password = ''; // Пароль пользователя
 $charset = 'utf8'; // Кодировка
